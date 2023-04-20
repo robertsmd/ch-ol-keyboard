@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>\\Mac\Home\Documents\Keyman Developer\Projects\ch_ol_keyboard\ch_ol_keyboard.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_1c67f7f2edb7060949c26a7a66b7260c</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\ch_ol_keyboard.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_7a4a94fd3beab548051e5731661b678d</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\ch_ol_keyboard.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f81a5a80c51ca1dd8596120725526444</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\ch_ol_keyboard.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f8a0d37933208c3bbfc542b80ad79c54</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\ch_ol_keyboard.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b5f510a94dc5d76c456baadeac5ef700</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\..\build\ch_ol_keyboard.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b3a21c60a49e64c6a0086296632e3cf7</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\..\build\ch_ol_keyboard.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fb408c0010e24159668a859211894452</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\..\build\ch_ol_keyboard.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch-ol-keyboard\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>ch_ol_keyboard.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>\\Mac\Home\Documents\Keyman Developer\Projects\ch_ol_keyboard\source\ch_ol_keyboard.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
