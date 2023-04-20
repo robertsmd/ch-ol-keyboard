@@ -1,7 +1,9 @@
-Ch'ol Keyboard keyboard
+Ch'ol Keyboard
 ==============
 
 Version 1.0
+
+For Keyman. More info at https://keyman.com
 
 Description
 -----------
